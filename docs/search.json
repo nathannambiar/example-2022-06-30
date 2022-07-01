@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About My Website",
+      "description": "This is a test website for the June 30th, 2022 class.\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T20:22:50-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Nathan Nambiar and I am in David Kane’s\r\nData Science Bootcamp.\r\nAbout the Project\r\nBasic description about project, “Filler Name for\r\nProject”\r\nGoals\r\nThis is a bullet\r\nsub-point\r\n\r\nAnother bullet\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T20:41:00-04:00"
     },
     {
       "path": "hof.html",

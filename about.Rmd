@@ -1,10 +1,21 @@
 ---
-title: "About this site"
+title: "About My Website"
 description: |
-  Some additional details about the website
+ This is a test website for the June 30th, 2022 class.
+ 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Nathan Nambiar** and I am in David Kane's Data Science Bootcamp. 
+
+## About the Project
+Basic description about project, *"Filler Name for Project"*
+
+### Goals
+* This is a bullet 
+  + sub-point
+* Another bullet
